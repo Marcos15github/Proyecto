@@ -17,7 +17,7 @@
         class="text-center"
         cols="16">
         <center>
-        <div class="maregenes"><v-img src="../assets/images/logo-inverse.png"></v-img></div>
+        <!--<div class="maregenes"><v-img src="../assets/images/logo-inverse.png"></v-img></div> -->
       </center>
         
       <v-alert
